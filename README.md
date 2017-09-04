@@ -22,11 +22,14 @@ git push -u origin master
 
 3.Create a new branch
 
-git checkout -b "my branch name"
+
+git checkout -b my branch name
 
 git branch
 
-git checkout "branch name" ( to change branch)
+git checkout branch name ( to change branch)
+
+
 
 
 
